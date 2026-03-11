@@ -1,4 +1,3 @@
-
 # 🌐 Perla Manikanta — Portfolio
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-View%20Website-0abde3?style=for-the-badge\&logo=vercel)](https://portfolio-ashy-six-90.vercel.app/)
@@ -13,7 +12,6 @@ Built with modern web technologies and interactive UI animations.
 
 🔗 **Portfolio Website**
 https://portfolio-ashy-six-90.vercel.app/
-![Portfolio-Preview](public/images/preview.png)
 
 ---
 
